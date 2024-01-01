@@ -150,6 +150,16 @@ color: "teal"
 });
 });
 
+//Previous page 
+function centralAfricanRep(){
+open("https://salmandascript.github.io/CentralAfricanRep/CentralAfricaRep.html");
+}
+
+//Next page 
+function comoros (){
+open("https://salmandascript.github.io/Comoras/Comoros.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
